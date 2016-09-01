@@ -15,6 +15,7 @@ public class AlarmReceiver extends BroadcastReceiver {
         // TODO Auto-generated method stub
         Toast.makeText(k1, "Sonet Alarm is started it is not defult alarm youcan add your code here!", Toast.LENGTH_LONG).show();
 
+        //check this class for dow somthing ..this method fire when Alarm is on
     }
 
 }
